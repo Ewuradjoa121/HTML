@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Center</title>
+    <style>
+        ul{
+ list-style-type: none;
+margin: 0;
+padding: 0%;
+overflow: hidden;
+text-align: center;
+        }
+        li {
+            float: left;
+        }
+        li a {
+            display: block;
+            color: brown;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            margin: 10px;
+            
+        }
+       ul li a:hover {
+            color: black;
+        }
+        h1{
+            text-align: center;
+        }
+        img{
+            width: 400px;
+            padding: 15px 30px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Soins de Santé</h1>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#images">Images</a></li>
+        <li><a href="#login">Login </a></li>
+        
+    </ul>
+    <div><img src="image/jo-sonn-zeFy-oCUhV8-unsplash(1).jpg" alt=""></div>
+    <div><img src="image/ernest-porzi-Z-Y6I45f9kQ-unsplash(1).jpg" alt=""></div>
+    <div><img src="image/adel-grober-LHLPeIGVUBw-unsplash(1).jpg" alt=""></div>
+    <div><img src="image/thought-catalog-9aOswReDKPo-unsplash(1).jpg" alt=""></div>
+    <div><img src="image/neven-krcmarek-M4KpA7NC-l0-unsplash(1).jpg" alt=""></div>
+</body>
+</html>
