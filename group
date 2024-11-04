@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link ref="stylesheet"href="https://pro.fontawsome.com/relases/v5.10.0/css/all.css">
+    <title>About us</title>
+    <style>
+      img  {
+           margin: 0px;
+           padding:0px;
+           box-sizing: border-box;
+           border-radius:10px;
+
+        }
+        h3{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+         p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+         }
+           .contanier{
+            width:80%;
+            display:block;
+            margin:auto;
+            padding-top:100px;
+           }
+         .content- section{
+            float: right;
+            width: 55px;
+
+         }
+         body{
+            align-items: center;
+         }
+    </style>
+</head>
+<body>
+    <div class="section"></div>
+    <div class="contanier"></div>
+    <div class="content-section"></div>
+    <div class="title"></div>
+    <h1>About us</h1>
+    <div class="content"></div>
+    <h3> A healthy diet </h3>
+    <p> A healthy diet is essential for good health and nutrition. It protects you against many chronic noncommunicable diseases, such as heart disease, diabetes and cancer. Eating a variety of foods and consuming less salt, sugars and saturated and industrially-produced trans-fats, are essential for healthy diet.</p>
+    <div class="button"></div>
+    <a href="" class="">Read More</a>
+    <div class="social"></div>
+    <div class="image-section"></div>
+    <img src="image/istockphoto-2086017613-1024x1024.jpg" >
+    </body>
+</html>
